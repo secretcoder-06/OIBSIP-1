@@ -1,2 +1,2 @@
-# html-portfolio
+# OIBSIP
 first basic project
